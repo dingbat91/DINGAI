@@ -2,7 +2,7 @@
 
 ## Description
 
-This is some practice code I'm making to translate a LLM into a REST API to use with my personal website.
+This is some practice code I'm making to translate a LLM into a REST API to use with my personal website. I'm doing this off-the-cuff so my apologies if it's a bit rough around the edges.
 
 ## Dependencies
 
